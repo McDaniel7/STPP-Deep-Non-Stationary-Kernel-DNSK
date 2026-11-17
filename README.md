@@ -167,11 +167,13 @@ The tests check every efficient likelihood term (event intensities, the temporal
 ## Citation
 
 ```bibtex
-@inproceedings{dong2023spatio,
-  title     = {Spatio-Temporal Point Processes with Deep Non-Stationary Kernels},
-  author    = {Dong, Zheng and Cheng, Xiuyuan and Xie, Yao},
-  booktitle = {International Conference on Learning Representations},
-  year      = {2023}
+@inproceedings{
+    dong2023spatiotemporal,
+    title={Spatio-temporal point processes with deep non-stationary kernels},
+    author={Zheng Dong and Xiuyuan Cheng and Yao Xie},
+    booktitle={The Eleventh International Conference on Learning Representations },
+    year={2023},
+    url={https://openreview.net/forum?id=PsIk0kO3hKd}
 }
 ```
 
