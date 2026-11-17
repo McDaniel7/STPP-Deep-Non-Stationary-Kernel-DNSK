@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "DNSK: Spatio-Temporal Point Processes with Deep Non-Stationary Kernels"
+authors:
+  - family-names: Dong
+    given-names: Zheng
+  - family-names: Cheng
+    given-names: Xiuyuan
+  - family-names: Xie
+    given-names: Yao
+license: MIT
+repository-code: "https://github.com/McDaniel7/STPP-Deep-Non-Stationary-Kernel-DNSK"
+preferred-citation:
+  type: conference-paper
+  title: "Spatio-Temporal Point Processes with Deep Non-Stationary Kernels"
+  authors:
+    - family-names: Dong
+      given-names: Zheng
+    - family-names: Cheng
+      given-names: Xiuyuan
+    - family-names: Xie
+      given-names: Yao
+  collection-title: "International Conference on Learning Representations (ICLR)"
+  year: 2023
